@@ -87,7 +87,6 @@ Key design decisions:
 ### 2 · Install
 
 ```powershell
-git clone https://github.com/Karthi-Villain/CodeXray-CursorHackathon.git
 cd CodeXray-CursorHackathon
 pip install -r requirements.txt
 ```
@@ -304,10 +303,6 @@ The model returned prose instead of a fenced JSON block. The dashboard surfaces 
 - [Postman](https://www.postman.com/) — for the v2.1 collection schema.
 
 ---
-
-## Fork and Star the repo
-
-Follow [Karthi-Villain](https://github.com/Karthi-Villain) for more.
 
 <div align="center">
 
